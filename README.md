@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 **Visite o Projeto**
-🔗 [Acesse o MIV Online](https://mivelarssen.me)
+🔗 [Acesse o MIV Online](http://mivelarssen.me/miv/)
 
 ---
 

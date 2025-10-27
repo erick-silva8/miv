@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 **Visite o Projeto**
-🔗 [Acesse o MIV Online](https://elarssen-code-solutions.netlify.app)
+🔗 [Acesse o MIV Online](https://mivelarssen.me)
 
 ---
 
